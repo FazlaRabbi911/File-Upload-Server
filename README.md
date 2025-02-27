@@ -43,12 +43,4 @@ curl -X POST -F "file=@path/to/your/file" http://localhost:3000/uploads
 - Implement file validation and error handling.
 - Store file metadata in a database.
 
-## License
-This project is licensed under the **MIT License**.
-
----
-### Author
-**[Your Name]**  
-LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-GitHub: [YourUsername](https://github.com/yourusername)
 
